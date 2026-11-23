@@ -21,8 +21,8 @@ const description =
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   icons: {
-    icon: "/logo.png",
-    apple: "/logo.png",
+    icon: "/logo-emblem.png",
+    apple: "/logo-emblem.png",
   },
   title: {
     default: "ParamVeer Car Care | Car Service Center in Moshi, Pimpri-Chinchwad",
